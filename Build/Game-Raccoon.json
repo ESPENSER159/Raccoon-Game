@@ -1,0 +1,13 @@
+{
+"companyName": "MAPOGAMES",
+"productName": "RACCOON",
+"dataUrl": "Game-Raccoon.data.unityweb",
+"asmCodeUrl": "Game-Raccoon.asm.code.unityweb",
+"asmMemoryUrl": "Game-Raccoon.asm.memory.unityweb",
+"asmFrameworkUrl": "Game-Raccoon.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#80D9DD"
+}
