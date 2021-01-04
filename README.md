@@ -3,4 +3,4 @@ Aprendiendo del desarrollo de juegos en Unity.
 
 Se exporto juego para la ejecución desde el navegador.
 
-![capture](raccoonGIF.gif)
+![alt text](raccoonGIF.gif)
